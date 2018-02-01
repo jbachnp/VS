@@ -5,6 +5,9 @@ using System.Text;
 
 namespace ClassLibrary1
 {
+    /// <summary>
+    /// This is first class
+    /// </summary>
     public class Class1
     {
     }
